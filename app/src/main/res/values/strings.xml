@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Geofence Remainder</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string-array name="radius_array">
+
+        <item>Select Radius</item>
+        <item>100 meters</item>
+        <item>200 meters</item>
+        <item>500 meters</item>
+        <item>1KM</item>
+        <item>2KM</item>
+        <item>5KM</item>
+        <item>8KM</item>
+        <item>10KM</item>
+
+    </string-array>
+
+    <string name="default_notification_channel_id">alarm_channel_id_01</string>
+
+</resources>

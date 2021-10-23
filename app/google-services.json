@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334878010693",
+    "project_id": "geofence-location-remainder",
+    "storage_bucket": "geofence-location-remainder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334878010693:android:6ad45885b979a08ee8622c",
+        "android_client_info": {
+          "package_name": "com.lifeheart.geofenceexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334878010693-vms1qqr0bnh5c13o3r5l567fr7uevaho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD1K2C2n_eSLICmqrnmFlGU_dvZw9ZcXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334878010693-vms1qqr0bnh5c13o3r5l567fr7uevaho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
