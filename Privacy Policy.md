@@ -8,10 +8,12 @@ This Privacy Policy describes Our policies and procedures on the collection, use
 # Personal Data
 We neither collect nor use your personal data at all and never be shared with anybody
 
-# Background Location Access
-We need you to allow background location access, in order to alert you when you reach your destination.
-Geo Maps has one and only feature and this is only the core feature, we are providing, this can not work without background location access.
-we neither track your location nor do we collect your data when you allow background location access.
+# We are not request for Background Location Access
+We do not need you to allow background location access, in order to alert you when you reach your destination.
+Geo Maps has one and only feature and this is only the core feature, we are providing, this can work without background location access.
+
+# Foreground Location Access
+we neither track your location nor do we collect your data when you allow foreground location access.
 
 
 # Interpretation and Definitions
